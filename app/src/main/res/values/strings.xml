@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NovaPet</string>
+    <string name="petName">Pet</string>
+    <string name="title">NovaPet</string>
+</resources>

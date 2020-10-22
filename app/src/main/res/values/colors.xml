@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3BE5AF</color>
+    <color name="colorPrimaryDark">#11D3E8</color>
+    <color name="colorAccent">#FFDA22</color>
+    <color name="textoTitulo">#EDDCDC</color>
+    <color name="cardviewPar">#59CEF1</color>
+    <color name="cardviewImpar">#CF62F2</color>
+</resources>
